@@ -9,5 +9,5 @@ tanto en **WINDOWS** como **LINUX**
 para instalar windows ...
 ### linux
 para instalar linux ...
-### guia de uso
+## guia de uso
 en esta seccion veremos como usar la aplicacion modulo markdown
