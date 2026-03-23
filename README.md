@@ -5,9 +5,11 @@ aqui vamos a encontrar todo lo relacionado a nuestro proyecto
 ## guia de instalacion
 en esta seccion veremos como instalar nuestro software, esto lo podemos hacer 
 tanto en **WINDOWS** como **LINUX** 
+
 ### windows
 para instalar windows ...
 ### linux
 para instalar linux ...
 ## guia de uso
-en esta seccion veremos como usar la aplicacion modulo markdown
+en esta seccion veremos como usar la aplicacion _modulo markdown_
+texto en *cursiva*, en **negrita**, y ,mas __negrita__
